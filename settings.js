@@ -4,26 +4,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916909137213"
-global.ownername = "David Cyril"
-global.ytname = "David Cyril"
+global.ownernomer = "917439317360"
+global.ownername = "𝆺𝅥 𝇁 ֹ  𝄄 س ꓹ 𝚫𝐃𝐑𝐈𝚵𝚴 𓂃🧣"
+global.ytname = ""
 global.socialm = "GitHub: DeeCeeXxx"
-global.location = "Africa, Nigeria, Lagos"
+global.location = "Asia, India, Kolkata"
 
-global.ownernumber = '2347043759577,2349066528353,254782572110'  //creator number
-global.ownername = 'David Cyril' //owner name
+global.ownernumber = '917439317360'  //creator number
+global.ownername = '𝆺𝅥 𝇁 ֹ  𝄄 س ꓹ 𝚫𝐃𝐑𝐈𝚵𝚴 𓂃🧣' //owner name
 global.botname = '🕷Venom-2🕷' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'David_Cyril\n\nContact: +2349066528353'
+global.author = '𝆺𝅥 𝇁 ֹ  𝄄 س ꓹ 𝚫𝐃𝐑𝐈𝚵𝚴 𓂃🧣\n\n❛       ⃝⃕𝆺𝅥🇦🇱   𝗥𝗘̸𝗗̶ 𝗙𝗟̸𝗔𝗚̸𝗦̶   —    ❜\n\nꫂ ၴႅၴ🧧̶̸ +𝟗𝟏 𝟕𝟒𝟑𝟗𝟑𝟏𝟕𝟑𝟔𝟎 ✞\n✉️̸̷̶⃝    𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 』'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "David Cyril Tech."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L'
+global.link = 'https://chat.whatsapp.com/EZjCgLTJfRd8LHOyVC163u'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
